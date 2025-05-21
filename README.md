@@ -6,7 +6,7 @@
 Este projeto foi desenvolvido como parte do curso Java COMPLETO - Programação Orientada a Objetos + Projetos da Udemy, ministrado por Nelio Alves.
 
 A aplicação é uma API RESTful para um sistema de vendas, com funcionalidades de cadastro de usuários, pedidos, produtos e categorias, 
-construída utilizando Spring Boot, JPA / Hibernate e banco de dados H2/PostgreSQL. 
+construída utilizando Spring Boot, JPA / Hibernate e banco de dados H2. 
 O objetivo principal foi praticar a construção de uma arquitetura com camadas bem definidas e aplicação de boas práticas com Java e Spring.
 
 ## Modelo conceitual
