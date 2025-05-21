@@ -34,3 +34,5 @@ O objetivo principal foi praticar a construção de uma arquitetura com camadas 
 # Autor
 
 João Victor Marçal Barbosa
+
+https://www.linkedin.com/in/joao-victor-marcal-barbosa-aba75733b/
